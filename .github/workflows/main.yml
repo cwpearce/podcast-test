@@ -7,4 +7,4 @@ jobs:
       - name: checkout repo
         uses: actions/checkout@v4
       - name: Run Feed Generator
-        uses: cwpearce/podcast-generator@v1
+        uses: cwpearce/podcast-generator@v1.0
